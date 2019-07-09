@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-toast-android@^2.0.0",
+  "_id": "react-native-toast-android@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-yURQbAis0SLehl+BZhJpRr60lgw=",
+  "_location": "/react-native-toast-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-toast-android@^2.0.0",
+    "name": "react-native-toast-android",
+    "escapedName": "react-native-toast-android",
+    "rawSpec": "^2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-toast-android/-/react-native-toast-android-2.0.0.tgz",
+  "_shasum": "c944506c08acd122de865f8166126946beb4960c",
+  "_spec": "react-native-toast-android@^2.0.0",
+  "_where": "/mnt/c/Users/matth/Documents/Etna/Code_camp/Throne_of_games/Throne_of_Games",
+  "author": {
+    "name": "ganxunzou@163.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ganxunzou/react-native-toast/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native Module for Android Toast ",
+  "homepage": "https://github.com/ganxunzou/react-native-toast#readme",
+  "keywords": [
+    "toast",
+    "ganxunzou"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "ganxunzou",
+      "email": "ganxunzou@163.com"
+    }
+  ],
+  "name": "react-native-toast-android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganxunzou/react-native-toast.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}

@@ -1,0 +1,40 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+
+target 'Throne_of_Games' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for Throne_of_Games
+  #pod 'react-native-fbsdk', :path => '../node_modules/react-native-fbsdk/'
+  pod 'Facebook-iOS-SDK'
+  #pod 'Google/Analytics'
+  #pod 'AFNetworking'
+  #pod 'XCDYouTubeKit'
+  pod 'FBSDKCoreKit'	
+  pod 'FBSDKShareKit'
+  pod 'FBSDKLoginKit'
+  #pod 'Parse'
+  #pod 'ParseUI'
+  #pod 'Parse/FacebookUtils'
+  #pod 'ParseTwitterUtils'  
+
+  target 'Throne_of_GamesTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'Throne_of_Games-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for Throne_of_Games-tvOS
+
+  target 'Throne_of_Games-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
